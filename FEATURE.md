@@ -12,7 +12,7 @@
  
  
 
-1. Page d'accueil : Présentation générale de l'entreprise, des services offerts, et des actualités ou promotions en cours.
+1. Page d'accueil : Présentation générale de l'entreprise, des services offerts, et des actualités ou promotions en cours et des différents réseaux sociaux.
   (Client potentiel) 
 
 2. Inscription/Connexion : Les utilisateurs peuvent créer un compte personnel pour suivre leurs rendez-vous et accéder à des services 
@@ -25,9 +25,6 @@
    de confirmation suite à la prise de rendez-vous.
    (Client potentiel) 
 
-4. Gestion des véhicules de courtoisie : Les utilisateurs doivent pouvoir réserver un véhicule de courtoisie lors de la prise 
-   de rendez-vous, sous réserve de disponibilité.
-   (Client potentiel) 
 
 5. Page des services : Description détaillée des services offerts, avec la possibilité de demander un devis.
    (Client potentiel) 
@@ -46,26 +43,24 @@
 1. Gestion des utilisateurs** : Le back-office doit permettre l'administration des comptes utilisateurs, incluant la création,
 la modification, la suppression, la visualisation des détails des utilisateurs et la réinitialisation des mots de passe.
 
-2. Gestion des rendez-vous** : Il doit y avoir une fonctionnalité qui permet de visualiser tous les rendez-vous pris par les
+2. Gestion des rendez-vous : Il doit y avoir une fonctionnalité qui permet de visualiser tous les rendez-vous pris par les
 utilisateurs, de les modifier, les annuler et de rechercher des rendez-vous spécifiques.
 
-3. Gestion des véhicules de courtoisie** : Le back-office doit permettre de gérer l'inventaire des véhicules de courtoisie
-disponibles, d'ajouter ou de retirer des véhicules, et de visualiser les réservations de véhicules.
 
-4. Gestion du contenu** : Il faut pouvoir ajouter, modifier et supprimer le contenu des différentes pages du site 
+4. Gestion du contenu : Il faut pouvoir ajouter, modifier et supprimer le contenu des différentes pages du site 
 (par exemple, la page d'accueil, la page de services, la FAQ, etc.)
 
 5. Gestion des emails de confirmation** : Le back-office doit permettre de personnaliser le contenu des emails de 
 confirmation envoyés aux utilisateurs lorsqu'ils prennent un rendez-vous.
 
-6. Gestion des demandes de devis** : Si les utilisateurs peuvent demander des devis via le site web, le back-office
+6. Gestion des demandes de devis : Si les utilisateurs peuvent demander des devis via le site web, le back-office
 doit pouvoir gérer ces demandes, y répondre et suivre leur statut.
 
 7. Analyse et reporting : Le back-office doit fournir des rapports et des statistiques sur l'utilisation du site, 
 tels que le nombre de rendez-vous pris, le nombre d'utilisateurs inscrits, le nombre de demandes de devis, etc. Idéalement, 
 ces données doivent pouvoir être exportées pour une analyse plus approfondie.
 
-8. Gestion des actualités et promotions** : Si le site propose des actualités ou des promotions, le back-office doit 
+8. Gestion des actualités et promotions : Si le site propose des actualités ou des promotions, le back-office doit 
 permettre de les créer, les modifier et les supprimer.
 
 9. Gestion du SEO : Le back-office doit permettre de modifier les balises méta (title, description) de chaque page 
