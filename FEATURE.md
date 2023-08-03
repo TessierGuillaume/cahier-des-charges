@@ -2,8 +2,7 @@
  pitch:
  
  je veux un site qui permet de prendre des rendez-vous en ligne pour passer son contrôle technique . 
- De présenter l'entreprise ses avantages
- sa localisation ...
+ De présenter l'entreprise ses avantages ,sa localisation ,ses réseaux sociaux...
  
  
  
